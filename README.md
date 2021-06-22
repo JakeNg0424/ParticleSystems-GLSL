@@ -1,5 +1,7 @@
 # Spiraling Sphere
 
+Inspiration: http://sprott.physics.wisc.edu/pubs/paper423.pdf
+
 ![](.ignore/intial.gif)<-Initial
 ![](.ignore/final.gif)<-Final
 
